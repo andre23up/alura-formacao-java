@@ -2,6 +2,8 @@
 
 ## Orientação a Objetos
 ## Bibliotecas
+### Biblotecas Java
+Conhecer os principais pacotes, como java.lang, I/O e collections.
 ## Servlets e Maven
 ## Banco de Dados
 ## Spring MVC
