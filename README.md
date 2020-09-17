@@ -6,7 +6,7 @@
 ## Banco de Dados
 ## Spring MVC
 
-[Objetos 2] ### Orientação à Objetos https://github.com/andre23up/alura-formacao-java/tree/master/1-java-orientacao-objetos
+[Objetos 2] ### Orientação à Objetos (https://github.com/andre23up/alura-formacao-java/tree/master/1-java-orientacao-objetos)
 Desenvolver conhecimento sólido em orientação à objetos e boas práticas de código.
 
 ### Biblotecas Java
